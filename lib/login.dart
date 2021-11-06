@@ -111,7 +111,7 @@ class _LoginState extends State<Login> {
                                 child: Container(
                                   padding: EdgeInsets.all(5),
                                   child: Text(
-                                    'Become Partner',
+                                    'Sign up',
                                     style: TextStyle(
                                       color: Colors.black,
                                       fontSize: 17,
